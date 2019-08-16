@@ -34,6 +34,16 @@ class Welcome extends CI_Controller {
 		$this->_load_layout('product');
 	}
 
+	public function detailproduct()
+	{
+		$this->_load_layout('detailproduct');
+	}
+	public function contact()
+	{
+		$this->_load_layout('contact');
+	}
+
+	
 	function _load_layout($template)
 	{
 

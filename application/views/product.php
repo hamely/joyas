@@ -1,15 +1,6 @@
     
     <section id="breadcrumbRow" class="row">
-        <h2>product page</h2>
-        <div class="row pageTitle m0">
-            <div class="container">
-                <h4 class="fleft">product page</h4>
-                <ul class="breadcrumb fright">
-                    <li><a href="index.html">home</a></li>
-                    <li class="active">product page</li>
-                </ul>
-            </div>
-        </div>
+        <h2>PRODUCTO</h2>
     </section>
     
     <section class="row contentRowPad greybg">
@@ -18,7 +9,7 @@
                 <div class="col-sm-3 product">
                     <div class="productInner row m0">
                         <div class="row m0 imgHov">
-                            <img src="images/product/pro1p/1.png" alt="">
+                            <img src="<?php echo base_url('assets/images/product/pro1p/1.png'); ?>" alt="">
                             <div class="row m0 hovArea">
                                 <div class="row m0 icons">
                                     <ul class="list-inline">
@@ -39,15 +30,13 @@
                             </div>
                         </div>
                         <div class="row m0 proName"><a href="single-product.html">Maximus quam posuere</a></div>
-                        <div class="row m0 proBuyBtn">
-                            <button class="addToCart btn">add to cart</button>
-                        </div>
+                       
                     </div>
                 </div>
                 <div class="col-sm-3 product">
                     <div class="productInner row m0">
                         <div class="row m0 imgHov">
-                            <img src="images/product/pro1p/2.png" alt="">
+                            <img src="<?php echo base_url('assets/images/product/pro1p/1.png'); ?>" alt="">
                             <div class="row m0 hovArea">
                                 <div class="row m0 icons">
                                     <ul class="list-inline">
@@ -68,15 +57,13 @@
                             </div>
                         </div>
                         <div class="row m0 proName"><a href="single-product.html">Donec aliquam</a></div>
-                        <div class="row m0 proBuyBtn">
-                            <a class="addToCart btn" href="#">add to cart</a>
-                        </div>
+                        
                     </div>
                 </div>
                 <div class="col-sm-3 product">
                     <div class="productInner row m0">
                         <div class="row m0 imgHov">
-                            <img src="images/product/pro1p/3.png" alt="">
+                            <img src="<?php echo base_url('assets/images/product/pro1p/1.png'); ?>" alt="">
                             <div class="row m0 hovArea">
                                 <div class="row m0 icons">
                                     <ul class="list-inline">
@@ -97,15 +84,13 @@
                             </div>
                         </div>
                         <div class="row m0 proName"><a href="single-product.html">Maximus quam posuere</a></div>
-                        <div class="row m0 proBuyBtn">
-                            <button class="addToCart btn">add to cart</button>
-                        </div>
+                       
                     </div>
                 </div>
                 <div class="col-sm-3 product">
                     <div class="productInner row m0">
                         <div class="row m0 imgHov">
-                            <img src="images/product/pro1p/4.png" alt="">
+                            <img src="<?php echo base_url('assets/images/product/pro1p/1.png'); ?>" alt="">
                             <div class="row m0 hovArea">
                                 <div class="row m0 icons">
                                     <ul class="list-inline">
@@ -126,15 +111,13 @@
                             </div>
                         </div>
                         <div class="row m0 proName"><a href="single-product.html">quam posuere</a></div>
-                        <div class="row m0 proBuyBtn">
-                            <button class="addToCart btn">add to cart</button>
-                        </div>
+                       
                     </div>
                 </div>
                 <div class="col-sm-3 product">
                     <div class="productInner row m0">
                         <div class="row m0 imgHov">
-                            <img src="images/product/pro1p/5.png" alt="">
+                            <img src="<?php echo base_url('assets/images/product/pro1p/1.png'); ?>" alt="">
                             <div class="row m0 hovArea">
                                 <div class="row m0 icons">
                                     <ul class="list-inline">
@@ -155,15 +138,13 @@
                             </div>
                         </div>
                         <div class="row m0 proName"><a href="single-product.html">quam posuere</a></div>
-                        <div class="row m0 proBuyBtn">
-                            <button class="addToCart btn">add to cart</button>
-                        </div>
+                       
                     </div>
                 </div>
                 <div class="col-sm-3 product">
                     <div class="productInner row m0">
                         <div class="row m0 imgHov">
-                            <img src="images/product/pro1p/6.png" alt="">
+                            <img src="<?php echo base_url('assets/images/product/pro1p/1.png'); ?>" alt="">
                             <div class="row m0 hovArea">
                                 <div class="row m0 icons">
                                     <ul class="list-inline">
@@ -184,14 +165,12 @@
                             </div>
                         </div>
                         <div class="row m0 proName"><a href="single-product.html">quam posuere</a></div>
-                        <div class="row m0 proBuyBtn">
-                            <button class="addToCart btn">add to cart</button>
-                        </div>
+                       
                     </div>
                 </div><div class="col-sm-3 product">
                     <div class="productInner row m0">
                         <div class="row m0 imgHov">
-                            <img src="images/product/pro1p/7.png" alt="">
+                            <img src="<?php echo base_url('assets/images/product/pro1p/1.png'); ?>" alt="">
                             <div class="row m0 hovArea">
                                 <div class="row m0 icons">
                                     <ul class="list-inline">
@@ -212,15 +191,13 @@
                             </div>
                         </div>
                         <div class="row m0 proName"><a href="single-product.html">Maximus quam posuere</a></div>
-                        <div class="row m0 proBuyBtn">
-                            <button class="addToCart btn">add to cart</button>
-                        </div>
+                       
                     </div>
                 </div>
                 <div class="col-sm-3 product">
                     <div class="productInner row m0">
                         <div class="row m0 imgHov">
-                            <img src="images/product/pro1p/8.png" alt="">
+                            <img src="<?php echo base_url('assets/images/product/pro1p/1.png'); ?>" alt="">
                             <div class="row m0 hovArea">
                                 <div class="row m0 icons">
                                     <ul class="list-inline">
@@ -241,15 +218,12 @@
                             </div>
                         </div>
                         <div class="row m0 proName"><a href="single-product.html">Donec aliquam</a></div>
-                        <div class="row m0 proBuyBtn">
-                            <a class="addToCart btn" href="#">add to cart</a>
-                        </div>
                     </div>
                 </div>
                 <div class="col-sm-3 product">
                     <div class="productInner row m0">
                         <div class="row m0 imgHov">
-                            <img src="images/product/pro1p/9.png" alt="">
+                            <img src="<?php echo base_url('assets/images/product/pro1p/1.png'); ?>" alt="">
                             <div class="row m0 hovArea">
                                 <div class="row m0 icons">
                                     <ul class="list-inline">
@@ -270,15 +244,13 @@
                             </div>
                         </div>
                         <div class="row m0 proName"><a href="single-product.html">Maximus quam posuere</a></div>
-                        <div class="row m0 proBuyBtn">
-                            <button class="addToCart btn">add to cart</button>
-                        </div>
+                       
                     </div>
                 </div>
                 <div class="col-sm-3 product">
                     <div class="productInner row m0">
                         <div class="row m0 imgHov">
-                            <img src="images/product/pro1p/7.png" alt="">
+                            <img src="<?php echo base_url('assets/images/product/pro1p/1.png'); ?>" alt="">
                             <div class="row m0 hovArea">
                                 <div class="row m0 icons">
                                     <ul class="list-inline">
@@ -299,15 +271,13 @@
                             </div>
                         </div>
                         <div class="row m0 proName"><a href="single-product.html">quam posuere</a></div>
-                        <div class="row m0 proBuyBtn">
-                            <button class="addToCart btn">add to cart</button>
-                        </div>
+                       
                     </div>
                 </div>
                 <div class="col-sm-3 product">
                     <div class="productInner row m0">
                         <div class="row m0 imgHov">
-                            <img src="images/product/pro1p/6.png" alt="">
+                            <img src="<?php echo base_url('assets/images/product/pro1p/1.png'); ?>" alt="">
                             <div class="row m0 hovArea">
                                 <div class="row m0 icons">
                                     <ul class="list-inline">
@@ -328,15 +298,13 @@
                             </div>
                         </div>
                         <div class="row m0 proName"><a href="single-product.html">quam posuere</a></div>
-                        <div class="row m0 proBuyBtn">
-                            <button class="addToCart btn">add to cart</button>
-                        </div>
+                       
                     </div>
                 </div>
                 <div class="col-sm-3 product">
                     <div class="productInner row m0">
                         <div class="row m0 imgHov">
-                            <img src="images/product/pro1p/3.png" alt="">
+                            <img src="<?php echo base_url('assets/images/product/pro1p/1.png'); ?>" alt="">
                             <div class="row m0 hovArea">
                                 <div class="row m0 icons">
                                     <ul class="list-inline">
@@ -357,9 +325,7 @@
                             </div>
                         </div>
                         <div class="row m0 proName"><a href="single-product.html">quam posuere</a></div>
-                        <div class="row m0 proBuyBtn">
-                            <button class="addToCart btn">add to cart</button>
-                        </div>
+                       
                     </div>
                 </div>
             </div>

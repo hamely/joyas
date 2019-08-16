@@ -38,7 +38,7 @@
                   <div class="col-sm-12 col-md-5 menu2 pull-right">
                      <ul class="nav fright">
                         <li><a href="#">INFORMACIÓN IMPORTANTE</a></li>
-                        <li><a href="#">CONTACTO</a></li>
+                        <li><a href="index.php/contact">CONTACTO</a></li>
                         <li><img src="<?php echo base_url('assets/images/icons/face.png'); ?>" style="height: 50px;margin-top: -15px;"></li>
                         <li><img src="<?php echo base_url('assets/images/icons/tu.png'); ?>" style="height: 50px;margin-top: -15px;"></li>
 
@@ -79,7 +79,7 @@
                                     </ul>
                                  </li>
                                  <li><a href="index.php/product">MIEL</a></li>
-                                 <li><a href="<?php echo site_url(''); ?>">PIEDRAS</a></li>
+                                 <li><a href="index.php/product">PIEDRAS</a></li>
                                  
                               </ul>
                            </div>
